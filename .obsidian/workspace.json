@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d379dc5bb21442f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b2c3a25761e7ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f85a030c1b278d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251021.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251021"
+            }
+          },
+          {
+            "id": "b701864a6fab7a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251022.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251022"
+            }
+          },
+          {
+            "id": "4d336e1457618c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251023"
+            }
+          },
+          {
+            "id": "1e19a95044b067b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251023(2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251023(2)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d1f6f99bd25c8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e96d8fb5ef38274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09f87c0b5d30702",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "3df9e5fa5930b85f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "297fb59069aa07d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4db04f59f1c91d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf00c4c7aebfd1e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2b8b641e8184cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "9a4814b1fc269121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "0523d87592ff1fb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "c26193f77f9debcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "1e19a95044b067b3",
+  "lastOpenFiles": [
+    "Pasted image 20251023165117.png",
+    "Pasted image 20251023155950.png",
+    "Pasted image 20251023155329.png",
+    "Pasted image 20251023154901.png",
+    "Pasted image 20251023153752.png",
+    "Pasted image 20251023121025.png",
+    "Pasted image 20251023120926.png",
+    "251023(2).md",
+    "251023.md",
+    "Pasted image 20251023120906.png",
+    "Pasted image 20251023120857.png",
+    "251021.md",
+    "251022.md",
+    "Pasted image 20251023105526.png",
+    "Pasted image 20251023105510.png"
+  ]
+}
