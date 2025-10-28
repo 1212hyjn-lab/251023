@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251023(2).md",
+                "file": "251021-251023/251023(2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "251023(2)"
             }
+          },
+          {
+            "id": "1f0840e10c1de778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "251028.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "251028"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "251028.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "251028 의 백링크"
             }
           },
           {
@@ -209,22 +224,28 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1e19a95044b067b3",
+  "active": "1f0840e10c1de778",
   "lastOpenFiles": [
-    "Pasted image 20251023165117.png",
-    "Pasted image 20251023155950.png",
-    "Pasted image 20251023155329.png",
-    "Pasted image 20251023154901.png",
-    "Pasted image 20251023153752.png",
-    "Pasted image 20251023121025.png",
-    "Pasted image 20251023120926.png",
-    "251023(2).md",
-    "251023.md",
-    "Pasted image 20251023120906.png",
-    "Pasted image 20251023120857.png",
-    "251021.md",
-    "251022.md",
-    "Pasted image 20251023105526.png",
-    "Pasted image 20251023105510.png"
+    "251028.md",
+    "Pasted image 20251028160311.png",
+    "251027/251027.md",
+    "251021-251023/251023(2).md",
+    "251021-251023/Pasted image 20251023165117.png",
+    "251027",
+    "무제",
+    "251021-251023/도커시작 전/무제.md",
+    "251021-251023",
+    "251021-251023/도커시작 전",
+    "251021-251023/Pasted image 20251023155950.png",
+    "251021-251023/Pasted image 20251023155329.png",
+    "251021-251023/Pasted image 20251023154901.png",
+    "251021-251023/Pasted image 20251023153752.png",
+    "251021-251023/Pasted image 20251023121025.png",
+    "251021-251023/Pasted image 20251023120926.png",
+    "251021-251023/251023.md",
+    "251021-251023/Pasted image 20251023120906.png",
+    "251021-251023/Pasted image 20251023120857.png",
+    "251021-251023/251021.md",
+    "251021-251023/251022.md"
   ]
 }
